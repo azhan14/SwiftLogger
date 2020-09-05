@@ -23,3 +23,6 @@ database is created by sqlite3.
 web automation is done by selenium.
 tkinter for gui.
 DONE.
+
+
+Video for working model is as follows: https://drive.google.com/drive/folders/1p7oovSEujiKTgoWBL4b6N585W_Z0YwNV
